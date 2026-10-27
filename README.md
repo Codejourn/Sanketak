@@ -47,13 +47,13 @@ The AI supports HSE reviewers and does not replace them: **evidence first, HSE d
 
 ### HSE Command Centre Dashboard
 
-![HSE Dashboard](https://drive.google.com/file/d/1l2pPbyNTnv639j5q1nYQ7t_9PE7ozxhh/view?usp=sharing)
+![HSE Dashboard](https://drive.google.com/uc?export=view&id=1l2pPbyNTnv639j5q1nYQ7t_9PE7ozxhh)
 
 Reports received, reports needing review, high-SIF-potential reports, open corrective actions and critical reports, with a priority table showing site, SIF potential, barrier failure, life-saving rule, received time and status.
 
 ### Report Intelligence
 
-![Report Intelligence]([docs/screenshots/report-intelligence.png](https://drive.google.com/file/d/15bBkW4__lXbOJ_dieLYtwNeidYlCBlZ2/view?usp=sharing))
+![Report Intelligence](https://drive.google.com/uc?export=view&id=15bBkW4__lXbOJ_dieLYtwNeidYlCBlZ2)
 
 A single-report view with tracking ID, priority, SIF potential, model confidence, the original worker report and the relevant life-saving rule.
 
